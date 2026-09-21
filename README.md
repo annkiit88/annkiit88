@@ -1,4 +1,4 @@
-# Hi, I'm Ankit Yadav 👋
+# Hi, I am Ankit Yadav
 
 ### AI Automation & n8n Developer | Financial Market Intelligence | Python
 
@@ -6,7 +6,7 @@ I build AI-powered automation systems that combine **n8n, AI agents, APIs, resea
 
 My focus is on building practical automations that reduce manual work and turn raw information into useful business intelligence.
 
-## 🚀 What I Build
+## What I Build
 
 - AI-powered n8n workflows
 - AI agents and LLM integrations
@@ -18,7 +18,7 @@ My focus is on building practical automations that reduce manual work and turn r
 - Automated content research systems
 - Workflow debugging and optimization
 
-## 📊 Featured Project
+## Featured Project
 
 ### AI Financial Market Intelligence Automation
 
@@ -36,7 +36,7 @@ An end-to-end n8n workflow that:
 
 👉 [View the project](https://github.com/annkiit88/n8n-financial-market-intelligence)
 
-## 🛠️ Technologies
+## Technologies
 
 **Automation:** n8n, Microsoft Power Automate
 
@@ -50,7 +50,7 @@ An end-to-end n8n workflow that:
 
 **Finance:** Financial Market Research, Investment Research, Derivatives & Quantitative Research
 
-## 🔧 Currently Building
+## Currently Building
 
 AI automation systems for:
 
@@ -61,9 +61,9 @@ AI automation systems for:
 - Content research
 - API-driven business processes
 
-## 🤝 Open to Projects
+## Open to Projects
 
-I'm available for freelance and collaboration opportunities involving:
+I am available for freelance and collaboration opportunities involving:
 
 **n8n Automation • AI Agents • API Integration • Research Automation • Financial Intelligence • Workflow Debugging**
 
